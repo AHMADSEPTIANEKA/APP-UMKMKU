@@ -1,11 +1,11 @@
-**Nama Anggota**  
-**1. Ahmad Septian Eka Setiawan (2212400012293)**  
-**2. Ihsanul Hafidzin (221240001288)**  
+**Nama Anggota**
+1. Ahmad Septian Eka Setiawan (2212400012293)
+2. Ihsanul Hafidzin (221240001288)
 
 # PRODUCT REQUIREMENTS DOCUMENT (PRD)
 
-**Aplikasi UMKMKU**  
-**Versi:** 1.1  
+**Aplikasi GoBiz**
+**Versi:** 1.1
 
 ---
 
@@ -295,3 +295,4 @@ Main: Pencarian cepat, grid produk (gambar + harga), Cart/Order summary, metode 
 * **Notifikasi stok menipis** ditetapkan sebagai item **Fase berikutnya** dan sudah tercantum pada rencana rilis; konfigurasi ambang batas per produk/outlet.  
 
 > Ketentuan ini sudah tercermin pada RBAC Matrix & penerapan scope token (`tenant_id`, `outlet_id`).
+
